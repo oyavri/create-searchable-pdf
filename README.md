@@ -22,5 +22,4 @@ It downloads some packages (Tesseract-OCR and Vips-tools). Creates a temporary f
 Feel free to make contributions! 
 
 ## License
-----
 MIT
